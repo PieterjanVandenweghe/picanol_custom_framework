@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xt:extensions xmlns:xt="http://www.oxygenxml.com/ns/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
    <xt:extension id="dita_extension_picanol">
-      <xt:location href="https://github.com/panpeejee/Picanol-custom-framework/blob/master/picanol_custom_framework.zip"/>
+      <xt:location href="dita_extensions.zip"/>
       <xt:version>1.0.0</xt:version>
       <xt:oxy_version>14.0+</xt:oxy_version>
       <xt:type>framework</xt:type>
