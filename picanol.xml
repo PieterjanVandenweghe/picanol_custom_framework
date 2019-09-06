@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xt:extensions xmlns:xt="http://www.oxygenxml.com/ns/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
    <xt:extension id="dita_extension_picanol">
-      <xt:location href="https://github.com/panpeejee/Picanol-custom-framework/blob/master/dita_extensions.zip"/>
-      <xt:version>1.0.0</xt:version>
+      <xt:location href="dita_extension.zip"/>
+      <xt:version>2.0.0</xt:version>
       <xt:oxy_version>14.0+</xt:oxy_version>
       <xt:type>framework</xt:type>
       <xt:author>Pieterjan Vandenweghe</xt:author>
       <xt:name>Picanol Framework</xt:name>
-      <xt:description xmlns="http://www.w3.org/1999/xhtml"/>
-      <xt:license>
+      <xt:description xmlns="http://www.w3.org/1999/xhtml">
+      <html>
+      <head><title>Updates</title></head>
+      <body>
+      <h1>v2.0.0</h1>
+      <ul>
+      <li>Attribute values added.</li>
+      </ul></body>
+      </html>
+      </xt:description>
+      <xt:license></xt:license>
+      
+<xt:license>
 <![CDATA[
 
 END USER LICENSE AGREEMENT
